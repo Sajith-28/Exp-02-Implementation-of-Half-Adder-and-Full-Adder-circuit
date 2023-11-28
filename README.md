@@ -38,17 +38,38 @@ If the output is 1, then the led glows.
 Program:
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: SAJITH AHAMED F
+RegisterNumber: 23000083
 */
 Logic symbol & Truthtable
 RTL realization
 
 ### Output:
+### HALF ADDER:
+![HALF](https://github.com/Sajith-28/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149937471/e53200cb-2030-429c-89e6-127ccbace61c)
+### FULL ADDER:
+![FULL ADDER](https://github.com/Sajith-28/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149937471/51dc185f-6759-49b4-8e7e-d9079e9d4383)
+
+
 ### RTL
+### HALF ADDER:
+![HALF ADDER DIAGRAM](https://github.com/Sajith-28/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149937471/40b6887e-7ce5-46bb-850f-d354151059d1)
+### FULL ADDER:
+![FULL SUBTRACTOR-DIAGRAM](https://github.com/Sajith-28/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149937471/160312e9-f5cd-4a4d-b068-5ba02d009796)
+
 ### TIMING DIAGRAM
+### HALF ADDER:
+![HALF ADDER WAVEFORM](https://github.com/Sajith-28/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149937471/9b75a466-6e8c-462a-864c-f7155eff77f4)
+### FULL ADDER:
+![FULL ADDER-WAVEFORM](https://github.com/Sajith-28/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149937471/2ef9fc9f-74df-4512-9d66-76f31bd5c254)
 
 
 ### TRUTH TABLE 
+### HALF ADDER:
+![Screenshot 2023-11-28 141806](https://github.com/Sajith-28/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149937471/16e99b30-985f-4cb2-85b1-8b462425667f)
+
+### FULL ADDER:
+![Screenshot 2023-11-28 141759](https://github.com/Sajith-28/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149937471/87b2d30c-8313-4cc6-b92c-523e9d726772)
+
 
 ### Result:
